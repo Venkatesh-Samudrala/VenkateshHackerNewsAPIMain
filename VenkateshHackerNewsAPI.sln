@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VenkateshHackerNewsAPI", "VenkateshHackerNewsAPI\VenkateshHackerNewsAPI.csproj", "{EDF731F1-1800-4554-8FD5-ED28932DF41E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HNStoriesAPI.Test", "HNStoriesAPI\HNStoriesAPI.Test.csproj", "{D173CCC7-3CBF-4B78-8FEB-D509B87C4299}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E20C0B0-BE5D-4552-B9DE-4892CB53E447}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF731F1-1800-4554-8FD5-ED28932DF41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF731F1-1800-4554-8FD5-ED28932DF41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF731F1-1800-4554-8FD5-ED28932DF41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF731F1-1800-4554-8FD5-ED28932DF41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D173CCC7-3CBF-4B78-8FEB-D509B87C4299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D173CCC7-3CBF-4B78-8FEB-D509B87C4299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D173CCC7-3CBF-4B78-8FEB-D509B87C4299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D173CCC7-3CBF-4B78-8FEB-D509B87C4299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3EEADA-E3E2-4508-99FD-6165CAA93496}
+	EndGlobalSection
+EndGlobal
